@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log in again</name>
+   <tag></tag>
+   <elementGuidId>462f09ce-654f-4563-9cc5-1cd164047e35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span._Content_1aeud_46</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7e81386e-dec5-401c-bfe0-774ef66a443d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_Content_1aeud_46</value>
+      <webElementGuid>76a6342e-da2b-4d0b-8d01-56bc2e866c48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in again</value>
+      <webElementGuid>d82cde30-3a15-417d-98a5-e360c6435d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;_Layout_1km1x_1 _vertical_1km1x_7 _fullPage_1km1x_13&quot;]/div[@class=&quot;_Centered_1ui15_1&quot;]/div[@class=&quot;_EmptyStateContainer_1iequ_1&quot;]/div[@class=&quot;_Section_1iequ_9&quot;]/div[@class=&quot;_DetailsContainer_1iequ_20&quot;]/div[@class=&quot;_Actions_1iequ_29&quot;]/button[@class=&quot;_Button_1aeud_1 _primary_1aeud_133&quot;]/span[@class=&quot;_Content_1aeud_46&quot;]</value>
+      <webElementGuid>6532d6a9-6381-4dd5-b0fd-60f650d33670</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div[2]/button/span</value>
+      <webElementGuid>82ec9a93-d466-480f-ae9c-97413ad56ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please try to log in again.'])[1]/following::span[1]</value>
+      <webElementGuid>f6535106-dc13-430a-a03c-9ba8812d5050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in again']/parent::*</value>
+      <webElementGuid>15f188e2-2cd3-4e06-897a-8fff5dfa88e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>a602c2f3-50b5-4632-afbc-3db155ecd254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log in again' or . = 'Log in again')]</value>
+      <webElementGuid>6ede571a-9483-47b3-bf99-8707362dedd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

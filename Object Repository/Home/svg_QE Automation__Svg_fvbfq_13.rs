@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_QE Automation__Svg_fvbfq_13</name>
+   <tag></tag>
+   <elementGuidId>8a010d67-cc79-4549-8817-19b1dd980c87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg._Svg_fvbfq_13</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='QE Automation'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>ab6391f6-eef8-4ab5-982b-fafbf8bac30a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>21f0dd7e-842e-422f-a349-48ea26dd2d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>cca62444-461c-4ed5-86f3-32480421f07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>511f95d1-1550-4f1b-aceb-46c76ed5406c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>65d4314c-92e6-4faa-9b29-f89423d02c56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b74d02d1-0142-4f1d-9339-d64c577b3233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_Svg_fvbfq_13</value>
+      <webElementGuid>7ef0954b-393e-4ac7-bac5-714afcdceb3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;_Layout_1km1x_1 _fullPage_1km1x_13&quot;]/nav[@class=&quot;_BoldNavigationRoot_1evdy_1&quot;]/div[@class=&quot;_UserMenu_pj59u_1&quot;]/button[@class=&quot;_Button_pj59u_6&quot;]/span[@class=&quot;_Icon_fvbfq_1&quot;]/svg[@class=&quot;_Svg_fvbfq_13&quot;]</value>
+      <webElementGuid>9ce74a25-4c88-4a29-af0b-c7e72b2370f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QE Automation'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>e34c5eb5-eb19-4b75-8d15-813cad28fea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RSymend'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>627b54c8-8039-4d44-8c0f-191090fea554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get started'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>e46851ed-f5c5-4240-9f6f-8461ea091bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Playbooks'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>bf77dd4f-96ef-4c5f-a0dd-16d966eb6436</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
